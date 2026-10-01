@@ -22,15 +22,12 @@ A full-stack Gmail client that detects spam, summarizes emails with AI, and prov
 
 ---
 
-## 🌐 Live Demo
+<p align="center">
+  <a href="https://email-spam-detector-nine.vercel.app/">
+    <strong>🌐 Live Website</strong>
+  </a>
+</p>
 
-The live application link will be added here after deployment.
-
-```text
-Coming Soon
-```
-
----
 
 ## ✨ Overview
 
